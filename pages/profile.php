@@ -1,2 +1,2 @@
-<h2>List Produk</h2>
+<h2>Data Customer</h2>
 <p>Ini adalah halaman produk.</p>
