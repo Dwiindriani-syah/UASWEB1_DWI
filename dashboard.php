@@ -19,7 +19,7 @@ body {
 .sidebar {
     width: 220px;
     height: 100vh;
-    background: #2c3e50;
+    background: #e666a3;
     color: #fff;
     position: fixed;
     top: 0;
@@ -41,7 +41,7 @@ body {
 }
 
 .sidebar a:hover {
-    background: #34495e;
+    background: #3f697a;
 }
 
 /* Header */
@@ -61,8 +61,8 @@ body {
     cursor: pointer;
     padding: 8px 15px;
     border-radius: 20px;
-    background: #3498db;
-    color: #fff;
+    background: #cf709e;
+    color: #e70f24;
 }
 
 /* Dropdown */
@@ -84,11 +84,11 @@ body {
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #333;
+    color: #aa4786;
 }
 
 .dropdown-content a:hover {
-    background: #f0f0f0;
+    background: #844848;
 }
 
 /* Content */
